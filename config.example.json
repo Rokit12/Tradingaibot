@@ -1,0 +1,9 @@
+{
+  "symbol": "SPY",
+  "period": "2y",
+  "interval": "1d",
+  "buy_threshold": 0.60,
+  "sell_threshold": 0.45,
+  "transaction_cost": 0.001,
+  "initial_cash": 10000
+}
